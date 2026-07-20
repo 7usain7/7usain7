@@ -1,6 +1,6 @@
 <div align="center" id="top">
 
-# Hey there, I'm Hussain 👋
+# Hey there, I'm Hussain Jameel 👋
 
 <a href="https://github.com/7usain7">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=5EEAD4&center=true&vCenter=true&width=600&lines=Full+Stack+%26+Security+Engineer+%E2%9A%A1;eJPT+Certified+Penetration+Tester+%F0%9F%93%9C;BSc+in+Cybersecurity+%F0%9F%9B%A1%EF%B8%8F;Golang+%E2%80%A2+Python+%E2%80%A2+Java+%E2%80%A2+JavaScript+%F0%9F%92%BB;Startup+Bahrain+2026+Winner+%F0%9F%8F%86;Shipping+Fast+%E2%80%A2+Loud+in+Code+%F0%9F%94%A5" alt="Typing Header" />
@@ -88,7 +88,7 @@ Applying **eJPT certified** penetration testing techniques, **Secure Coding Prac
 
 ### 🗄️ Database Management & Optimization
 
-Designing relational databases (**MySQL / SQL**), schema architecture, and query optimization for high performance.
+Designing relational databases (**MySQL / SQL**), mastering normalization, schema architecture, and query optimization for high performance.
 
 </td>
 <td width="50%" valign="top">
@@ -108,7 +108,7 @@ Crafting modern, responsive web interfaces using **JavaScript, HTML5, CSS3**, an
 <div align="center">
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=go,py,java,js,html,css,php,mysql,postgres,redis,docker,git,linux,aws,bash,github,postman&perline=9&theme=dark" alt="My Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=go,py,java,js,c,cpp,html,css,php,mysql,postgres,docker,git,linux,aws,bash,github&perline=9&theme=dark" alt="My Tech Stack" />
 </a>
 
 </div>
@@ -131,6 +131,23 @@ Crafting modern, responsive web interfaces using **JavaScript, HTML5, CSS3**, an
 <br/>
 
 <details open>
+<summary><b>🛡️ Cybersecurity & Pentesting (eJPT Toolkit)</b></summary>
+<br/>
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557CDA?style=flat-square&logo=kali-linux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-167EC6?style=flat-square&logo=wireshark&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-1D2735?style=flat-square&logo=metasploit&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-000000?style=flat-square&logo=nmap&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6600?style=flat-square&logo=burp-suite&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP_Top_10-000000?style=flat-square&logo=owasp&logoColor=white)
+![Network Security](<https://img.shields.io/badge/Network_Security_(OSI%2C_TCP%2FIP%2C_Subnetting)-00ADD8?style=flat-square&labelColor=0d1117>)
+![Auth & Sessions](https://img.shields.io/badge/Auth_%26_Session_Security-F87171?style=flat-square&labelColor=0d1117)
+![Vulnerability Assessment](https://img.shields.io/badge/Vulnerability_Assessment-FBBF24?style=flat-square&labelColor=0d1117)
+![Secure Coding](https://img.shields.io/badge/Secure_Coding_Practices-5EEAD4?style=flat-square&labelColor=0d1117)
+
+</details>
+
+<details open>
 <summary><b>💻 Programming Languages</b></summary>
 <br/>
 
@@ -138,23 +155,13 @@ Crafting modern, responsive web interfaces using **JavaScript, HTML5, CSS3**, an
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>🛡️ Cybersecurity & Pentesting Toolkit</b></summary>
-<br/>
-
-![eJPT](https://img.shields.io/badge/eJPT_Certified-5EEAD4?style=flat-square&labelColor=0d1117)
-![Secure Coding](https://img.shields.io/badge/Secure_Coding_Practices-A78BFA?style=flat-square&labelColor=0d1117)
-![Vulnerability Assessment](https://img.shields.io/badge/Vulnerability_Assessment-FBBF24?style=flat-square&labelColor=0d1117)
-![Auth & Sessions](https://img.shields.io/badge/Auth_%26_Session_Security-F87171?style=flat-square&labelColor=0d1117)
-![Network Security](<https://img.shields.io/badge/Network_Security_(OSI%2C_TCP%2FIP%2C_Subnetting)-00ADD8?style=flat-square&labelColor=0d1117>)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash_Scripting-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 
 </details>
 
@@ -165,9 +172,26 @@ Crafting modern, responsive web interfaces using **JavaScript, HTML5, CSS3**, an
 ![Backend Architectures](https://img.shields.io/badge/Backend_Architectures-5EEAD4?style=flat-square&labelColor=0d1117)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-A78BFA?style=flat-square&labelColor=0d1117)
 ![WebSockets](https://img.shields.io/badge/WebSockets-FBBF24?style=flat-square&labelColor=0d1117)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![SQL Normalization](https://img.shields.io/badge/Relational_DB_Normalization-005C84?style=flat-square&labelColor=0d1117)
 ![Query Optimization](https://img.shields.io/badge/Query_Optimization-F87171?style=flat-square&labelColor=0d1117)
+
+</details>
+
+<details open>
+<summary><b>☁️ Cloud, DevOps & Tools</b></summary>
+<br/>
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)
 
 </details>
 
