@@ -1,0 +1,38 @@
+name: Update Profile Languages
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Runs every day at 03:15 UTC (6:15 AM local time)
+    - cron: "15 3 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-profile-languages
+  cancel-in-progress: true
+
+jobs:
+  update-languages:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Generate language statistics
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 scripts/update_languages.py
+
+      - name: Commit & Push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chrono: auto-update profile language stats 📊"
+          branch: main

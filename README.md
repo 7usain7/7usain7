@@ -115,6 +115,11 @@ Crafting modern, responsive web interfaces using **JavaScript, HTML5, CSS3**, an
 
 <br/>
 
+<!-- GITHUB-LANGUAGES:START -->
+<!-- GITHUB-LANGUAGES:END -->
+
+<br/>
+
 <details open>
 <summary><b>💻 Programming Languages</b></summary>
 <br/>
