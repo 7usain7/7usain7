@@ -116,6 +116,16 @@ Crafting modern, responsive web interfaces using **JavaScript, HTML5, CSS3**, an
 <br/>
 
 <!-- GITHUB-LANGUAGES:START -->
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-47.1%25-5EEAD4?style=flat-square&labelColor=0d1117" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Rust-19.4%25-A78BFA?style=flat-square&labelColor=0d1117" alt="Rust" />
+  <img src="https://img.shields.io/badge/Go-17.0%25-A78BFA?style=flat-square&labelColor=0d1117" alt="Go" />
+  <img src="https://img.shields.io/badge/CSS-10.6%25-A78BFA?style=flat-square&labelColor=0d1117" alt="CSS" />
+  <img src="https://img.shields.io/badge/Python-5.0%25-FBBF24?style=flat-square&labelColor=0d1117" alt="Python" />
+  <img src="https://img.shields.io/badge/HTML-0.8%25-FBBF24?style=flat-square&labelColor=0d1117" alt="HTML" />
+</p>
+
 <!-- GITHUB-LANGUAGES:END -->
 
 <br/>
