@@ -223,8 +223,16 @@ Crafting modern, responsive web interfaces using **JavaScript, HTML5, CSS3**, an
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=7usain7&theme=dark&background=0D1117&border=0D1117&stroke=0D1117&ring=5EEAD4&fire=5EEAD4&currStreakNum=5EEAD4&sideNums=A78BFA&sideTitle=C9D1D9&dates=A78BFA" alt="7usain7 Contribution Streak" width="49%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=7usain7&theme=github-dark&bg_color=0d1117&color=5eead4&line=a78bfa&point=5eead4&area=true&hide_border=true" alt="7usain7 Activity Graph" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=7usain7&theme=tokyonight&background=0B0C10&border=0B0C10&stroke=0B0C10&ring=00F0FF&fire=FF007F&currStreakNum=00F0FF&sideNums=8A2BE2&sideTitle=00F0FF&dates=8A2BE2&hide_border=true" alt="7usain7 Contribution Streak" width="49%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=7usain7&theme=tokyo-night&bg_color=0B0C10&color=00f0ff&line=8a2be2&point=ff007f&area=true&hide_border=true" alt="7usain7 Activity Graph" width="49%" />
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/7usain7/7usain7/output/dist/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/7usain7/7usain7/output/dist/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/7usain7/7usain7/output/dist/github-contribution-grid-snake.svg" width="100%">
+</picture>
 
 </div>
 
@@ -235,16 +243,16 @@ Crafting modern, responsive web interfaces using **JavaScript, HTML5, CSS3**, an
 <div align="center">
 
 <p align="center">
-  <b>Hussain Jameel</b> · eJPT Certified Security & Full Stack Engineer · BSc Cybersecurity
+  <b>Hussain</b> · eJPT Certified Security & Full Stack Engineer · BSc Cybersecurity
 </p>
 
 <br/>
 
 <a href="https://github.com/7usain7" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 <a href="https://linkedin.com" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
 <br/><br/>
