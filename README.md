@@ -1,6 +1,6 @@
 <div align="center" id="top">
 
-# Hey there, I'm Hussain Jameel 👋
+# Hey there, I'm Hussain 👋
 
 <a href="https://github.com/7usain7">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=5EEAD4&center=true&vCenter=true&width=600&lines=Full+Stack+%26+Security+Engineer+%E2%9A%A1;eJPT+Certified+Penetration+Tester+%F0%9F%93%9C;BSc+in+Cybersecurity+%F0%9F%9B%A1%EF%B8%8F;Golang+%E2%80%A2+Python+%E2%80%A2+Java+%E2%80%A2+JavaScript+%F0%9F%92%BB;Startup+Bahrain+2026+Winner+%F0%9F%8F%86;Shipping+Fast+%E2%80%A2+Loud+in+Code+%F0%9F%94%A5" alt="Typing Header" />
