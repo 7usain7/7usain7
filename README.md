@@ -118,13 +118,14 @@ Crafting modern, responsive web interfaces using **JavaScript, HTML5, CSS3**, an
 <!-- GITHUB-LANGUAGES:START -->
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-37.0%25-5EEAD4?style=flat-square&labelColor=0d1117" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Go-34.2%25-5EEAD4?style=flat-square&labelColor=0d1117" alt="Go" />
-  <img src="https://img.shields.io/badge/Rust-15.3%25-A78BFA?style=flat-square&labelColor=0d1117" alt="Rust" />
-  <img src="https://img.shields.io/badge/CSS-8.4%25-FBBF24?style=flat-square&labelColor=0d1117" alt="CSS" />
-  <img src="https://img.shields.io/badge/Python-3.9%25-FBBF24?style=flat-square&labelColor=0d1117" alt="Python" />
-  <img src="https://img.shields.io/badge/HTML-0.6%25-FBBF24?style=flat-square&labelColor=0d1117" alt="HTML" />
-  <img src="https://img.shields.io/badge/Shell-0.6%25-FBBF24?style=flat-square&labelColor=0d1117" alt="Shell" />
+  <img src="https://img.shields.io/badge/Go-34.3%25-5EEAD4?style=flat-square&labelColor=0d1117" alt="Go" />
+  <img src="https://img.shields.io/badge/JavaScript-22.3%25-5EEAD4?style=flat-square&labelColor=0d1117" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML-12.5%25-A78BFA?style=flat-square&labelColor=0d1117" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS-12.1%25-A78BFA?style=flat-square&labelColor=0d1117" alt="CSS" />
+  <img src="https://img.shields.io/badge/TypeScript-6.5%25-FBBF24?style=flat-square&labelColor=0d1117" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/SCSS-5.0%25-FBBF24?style=flat-square&labelColor=0d1117" alt="SCSS" />
+  <img src="https://img.shields.io/badge/Rust-4.7%25-FBBF24?style=flat-square&labelColor=0d1117" alt="Rust" />
+  <img src="https://img.shields.io/badge/C-1.9%25-FBBF24?style=flat-square&labelColor=0d1117" alt="C" />
 </p>
 
 <!-- GITHUB-LANGUAGES:END -->
