@@ -29,7 +29,7 @@
 <br/>
 
 <a href="https://github.com/7usain7">
-  <img src="https://komarev.com/ghpvc/?username=7usain7&style=for-the-badge&color=5eead4&labelColor=0d1117" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=7usain7&style=for-the-badge&color=a78bfa&labelColor=0d1117" alt="Profile Views" />
 </a>
 
 </div>
