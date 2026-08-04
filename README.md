@@ -226,7 +226,7 @@ Crafting modern, responsive web interfaces using **JavaScript, HTML5, CSS3**, an
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=7usain7&theme=tokyonight&background=0B0C10&border=0B0C10&stroke=0B0C10&ring=00F0FF&fire=FF007F&currStreakNum=00F0FF&sideNums=8A2BE2&sideTitle=00F0FF&dates=8A2BE2&hide_border=true" alt="7usain7 Contribution Streak" width="49%" />
+<img src="https://streak-stats.demolab.com/?user=7usain7&theme=tokyonight&background=0B0C10&border=0B0C10&stroke=0B0C10&ring=00F0FF&fire=FF007F&currStreakNum=00F0FF&sideNums=8A2BE2&sideTitle=00F0FF&dates=8A2BE2&hide_border=true" alt="7usain7 Contribution Streak" width="49%" />
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=7usain7&theme=tokyo-night&bg_color=0B0C10&color=00f0ff&line=8a2be2&point=ff007f&area=true&hide_border=true" alt="7usain7 Activity Graph" width="49%" />
 
 <br/><br/>
